@@ -11,3 +11,9 @@ Here's the font I like:
       font-family: 'Rubik', sans-serif;
     }
 ```
+
+## Screenshots
+
+![Screenshot 1](./out/1.png)
+
+![Screenshot 2](./out/2.png)
